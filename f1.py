@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import discord
 
 
-TOKEN = 'MTAxNjcxMDY1MDQ5MzQwNzM1Mg.GIElnt._nRvuS2WyMkrkiIFyVwJJCP-ll4S8f3GIvVYtQ'
+TOKEN = ''
 
 #Connection to the api
 conn = http.client.HTTPSConnection("ergast.com")
